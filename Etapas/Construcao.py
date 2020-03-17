@@ -1,1 +1,23 @@
 from time import sleep
+
+def construcao():
+    print("---------------Sub-processo CONSTRUCAO iniciando---------------")
+    sleep(3)
+    print("Iniciando codificação...")
+    sleep(3)
+    print("Criando modulos necessarios...")
+    sleep(3)
+    print("Criando funcoes para cada modulo...")
+    sleep(5)
+    print("Escrevendo arquivo principal...")
+    sleep(3)
+    print("Criando variaveis e estruturas...")
+    sleep(3)
+    print("Chamando funcoes...")
+    sleep(3)
+    print("Adicionando comentarios ao codigo...")
+    sleep(3)
+    print("Implementando interface grafica ao software...")
+    sleep(3)
+    print("---------------Sub-processo CONSTRUCAO finalizado---------------\n")
+    sleep(6)
