@@ -58,4 +58,5 @@ sleep(0.7)
 print("Desambiguando...")
 sleep(1)
 
-print("--------------------FIM DO SUB-PROCESSO DE REQUISITOS--------------------")
+print("--------------------FIM DO SUB-PROCESSO DE REQUISITOS--------------------\n")
+sleep(1.5)
