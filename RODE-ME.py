@@ -1,6 +1,3 @@
-from time import sleep
-
-
 print("--------------------SOFTWARE INICIADO--------------------\n")
 
 
